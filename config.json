@@ -1,0 +1,46 @@
+{
+  "comunidade": {
+    "nome": "DaVinci Comic",
+    "descricao": "Comunidade de artistas criadores de quadrinhos, mangás e personagens originais",
+    "fundador": "Ck",
+    "anoFundacao": "2025",
+    "whatsapp": {
+      "grupoOficial": "https://chat.whatsapp.com/BYjflMYFBHNJDM5OpxVXiZ",
+      "grupoPlus18": "https://davinci-verification18.netlify.app/"
+    },
+    "redesSociais": {
+      "tiktok": "@davinci_comic_oficial",
+      "instagram": "@davincicomic",
+      "discord": "DaVinci Comic#1234"
+    },
+    "eventos": {
+      "gartic": {
+        "dia": "Quinta-feira",
+        "horario": "20:30",
+        "descricao": "Sessões de Gartic Phone para descontrair e criar juntos"
+      }
+    }
+  },
+  "equipe": {
+    "fundador": ["Ck"],
+    "admSuperiores": ["Abner", "ArtBook", "Guimar", "Mariana"],
+    "moderadores": ["Jinx", "Ks", "Lucca", "Daysson"]
+  },
+  "desafios": {
+    "diario": {
+      "tema": "Robôs Urbanos",
+      "descricao": "Crie personagens robóticos em cenários urbanos futuristas",
+      "premio": "Destaque no grupo e galeria principal"
+    },
+    "semanal": {
+      "tema": "Universo Fantástico",
+      "descricao": "Explore mundos mágicos e criaturas fantásticas",
+      "premio": "Arte em destaque por uma semana + menção especial"
+    },
+    "mensal": {
+      "tema": "Personagens Originais",
+      "descricao": "Desenvolva seus OCs com backstory completa",
+      "premio": "Entrevista exclusiva + arte promocional"
+    }
+  }
+}
