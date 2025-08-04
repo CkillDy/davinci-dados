@@ -43,28 +43,30 @@
       "premio": "Entrevista exclusiva + arte promocional"
     }
   },
-  videos: {
-        id: 1,
-        nomeDesafio: "Retrato Feminino",
-        editor: "Mariana",
-        data: "15/01/2024",
-        thumbnail: "/thumbnails/video1.jpg",
-        url: "video1.mp4"
-      },
-      {
-        id: 2,
-        nomeDesafio: "Paisagem Urbana",
-        editor: "Mariana",
-        data: "20/01/2024",
-        thumbnail: "/thumbnails/video2.jpg",
-        url: "video2.mp4"
-      },
-      {
-        id: 3,
-        nomeDesafio: "Fantasia Medieval",
-        editor: "Mariana",
-        data: "25/01/2024",
-        thumbnail: "/thumbnails/video3.jpg",
-        url: "video3.mp4"
-      }
+  "videos": [
+    {
+      "id": 1,
+      "nomeDesafio": "Retrato Feminino",
+      "editor": "Mariana",
+      "data": "15/01/2024",
+      "thumbnail": "/thumbnails/video1.jpg",
+      "url": "video1.mp4"
+    },
+    {
+      "id": 2,
+      "nomeDesafio": "Paisagem Urbana",
+      "editor": "Mariana",
+      "data": "20/01/2024",
+      "thumbnail": "/thumbnails/video2.jpg",
+      "url": "video2.mp4"
+    },
+    {
+      "id": 3,
+      "nomeDesafio": "Fantasia Medieval",
+      "editor": "Mariana",
+      "data": "25/01/2024",
+      "thumbnail": "/thumbnails/video3.jpg",
+      "url": "video3.mp4"
+    }
+  ]
 }
