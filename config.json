@@ -49,27 +49,27 @@
   "videos": [
     {
       "id": 1,
-      "nomeDesafio": "Retrato Feminino",
+      "nomeDesafio": "Garras e Chifres",
       "editor": "Mariana",
-      "data": "15/01/2024",
+      "data": "2025",
       "thumbnail": "/thumbnails/video1.jpg",
-      "url": "video1.mp4"
+      "url": "https://youtube.com/shorts/W8cIvRPr2vY"
     },
     {
       "id": 2,
-      "nomeDesafio": "Paisagem Urbana",
+      "nomeDesafio": "Caudas",
       "editor": "Mariana",
-      "data": "20/01/2024",
+      "data": "2025",
       "thumbnail": "/thumbnails/video2.jpg",
-      "url": "video2.mp4"
+      "url": "https://youtube.com/shorts/IFhrL8huWjY"
     },
     {
       "id": 3,
-      "nomeDesafio": "Fantasia Medieval",
+      "nomeDesafio": "Dentes e Presas",
       "editor": "Mariana",
-      "data": "25/01/2024",
+      "data": "2025",
       "thumbnail": "/thumbnails/video3.jpg",
-      "url": "video3.mp4"
+      "url": "https://youtube.com/shorts/G6CaSclAwYs"
     }
   ]
 }
