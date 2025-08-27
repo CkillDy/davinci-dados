@@ -28,20 +28,23 @@
   },
   "desafios": {
     "diario": {
-      "tema": "Robôs Urbanos",
-      "descricao": "Crie personagens robóticos em cenários urbanos futuristas",
-      "premio": "Destaque no grupo e galeria principal"
-    },
-    "semanal": {
-      "tema": "Universo Fantástico",
-      "descricao": "Explore mundos mágicos e criaturas fantásticas",
-      "premio": "Arte em destaque por uma semana + menção especial"
-    },
-    "mensal": {
-      "tema": "Personagens Originais",
-      "descricao": "Desenvolva seus OCs com backstory completa",
-      "premio": "Entrevista exclusiva + arte promocional"
-    }
+    "tema": "Robôs Urbanos",
+    "descricao": "Crie personagens robóticos em cenários urbanos futuristas",
+    "premio": "Destaque no grupo e galeria principal",
+    "ativo": true
+  },
+  "semanal": {
+    "tema": "Universo Fantástico",
+    "descricao": "Explore mundos mágicos e criaturas fantásticas",
+    "premio": "Arte em destaque por uma semana + menção especial",
+    "ativo": false
+  },
+  "mensal": {
+    "tema": "Personagens Originais",
+    "descricao": "Desenvolva seus OCs com backstory completa",
+    "premio": "Entrevista exclusiva + arte promocional",
+    "ativo": true
+  }
   },
   "videos": [
     {
