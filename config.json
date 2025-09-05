@@ -28,48 +28,200 @@
   },
   "desafios": {
     "diario": {
-    "tema": "Robôs Urbanos",
-    "descricao": "Crie personagens robóticos em cenários urbanos futuristas",
-    "premio": "Destaque no grupo e galeria principal",
-    "ativo": true
-  },
-  "semanal": {
-    "tema": "Universo Fantástico",
-    "descricao": "Explore mundos mágicos e criaturas fantásticas",
-    "premio": "Arte em destaque por uma semana + menção especial",
-    "ativo": false
-  },
-  "mensal": {
-    "tema": "Personagens Originais",
-    "descricao": "Desenvolva seus OCs com backstory completa",
-    "premio": "Entrevista exclusiva + arte promocional",
-    "ativo": false
-  }
+      "tema": "Robôs Urbanos",
+      "descricao": "Crie personagens robóticos em cenários urbanos futuristas",
+      "premio": "Destaque no grupo e galeria principal",
+      "ativo": true
+    },
+    "semanal": {
+      "tema": "Universo Fantástico",
+      "descricao": "Explore mundos mágicos e criaturas fantásticas",
+      "premio": "Arte em destaque por uma semana + menção especial",
+      "ativo": false
+    },
+    "mensal": {
+      "tema": "Personagens Originais",
+      "descricao": "Desenvolva seus OCs com backstory completa",
+      "premio": "Entrevista exclusiva + arte promocional",
+      "ativo": false
+    }
   },
   "videos": [
     {
       "id": 1,
-      "nomeDesafio": "Garras e Chifres",
+      "nomeDesafio": "Desafio 1",
       "editor": "Mariana",
       "data": "2025",
-      "thumbnail": "https://raw.githubusercontent.com/CkillDy/davinci-dados/main/capaDavinci (2).png",
-      "url": "https://youtube.com/shorts/W8cIvRPr2vY"
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+1",
+      "url": "https://drive.google.com/file/d/1SfSGLjIPUEokEdXKbjmrl4jsGyVVT4TZ/preview"
     },
     {
       "id": 2,
-      "nomeDesafio": "Caudas",
+      "nomeDesafio": "Desafio 2",
       "editor": "Mariana",
       "data": "2025",
-      "thumbnail":  "https://raw.githubusercontent.com/CkillDy/davinci-dados/main/capaDavinci (2).png",
-      "url": "https://youtube.com/shorts/IFhrL8huWjY"
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+2",
+      "url": "https://drive.google.com/file/d/1sGXHXrDXP36drEwCYNRPtP6L0nOtYl66/preview"
     },
     {
       "id": 3,
-      "nomeDesafio": "Dentes e Presas",
+      "nomeDesafio": "Desafio 3",
       "editor": "Mariana",
       "data": "2025",
-      "thumbnail":  "https://raw.githubusercontent.com/CkillDy/davinci-dados/main/capaDavinci (2).png",
-      "url": "https://youtube.com/shorts/G6CaSclAwYs"
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+3",
+      "url": "https://drive.google.com/file/d/1PgA_4WzqU8g8DdXCxLyz5TX6Auz1jlt4/preview"
+    },
+    {
+      "id": 4,
+      "nomeDesafio": "Desafio 4",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+4",
+      "url": "https://drive.google.com/file/d/16CogFEApI3sV7SyZmkxBJVNrihLf1S7h/preview"
+    },
+    {
+      "id": 5,
+      "nomeDesafio": "Desafio 5",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+5",
+      "url": "https://drive.google.com/file/d/134Ol39UbymzS6sHUc1IcoumPsri6hiqf/preview"
+    },
+    {
+      "id": 6,
+      "nomeDesafio": "Desafio 6",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+6",
+      "url": "https://drive.google.com/file/d/1wY2daUDpQPsqlhKsT1_S7IO_k-1yxwd2/preview"
+    },
+    {
+      "id": 7,
+      "nomeDesafio": "Desafio 7",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+7",
+      "url": "https://drive.google.com/file/d/1Ji-C6gKqof0etNL80D26EeGLMB7BU3AO/preview"
+    },
+    {
+      "id": 8,
+      "nomeDesafio": "Desafio 8",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+8",
+      "url": "https://drive.google.com/file/d/1Zhf-hFQ93Jq_6ZQYfNFqYULC5_aws9Cb/preview"
+    },
+    {
+      "id": 9,
+      "nomeDesafio": "Desafio 9",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+9",
+      "url": "https://drive.google.com/file/d/1zNe1DNjF-fEB7be2PA_9xWOugtw6r5o8/preview"
+    },
+    {
+      "id": 10,
+      "nomeDesafio": "Desafio 10",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+10",
+      "url": "https://drive.google.com/file/d/1WDlBQeyoeq87lJosxMChJ4_8N-NxgKG6/preview"
+    },
+    {
+      "id": 11,
+      "nomeDesafio": "Desafio 11",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+11",
+      "url": "https://drive.google.com/file/d/1jKQOp9GRDlQHqdBcly9ApQITcFPz_dBn/preview"
+    },
+    {
+      "id": 12,
+      "nomeDesafio": "Desafio 12",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+12",
+      "url": "https://drive.google.com/file/d/1veDQ96fQSqOHwu97E9A147_wBrbtxDRK/preview"
+    },
+    {
+      "id": 13,
+      "nomeDesafio": "Desafio 13",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+13",
+      "url": "https://drive.google.com/file/d/1V4zcUDhAag-laLMHEK2wZAPerEzaIbD2/preview"
+    },
+    {
+      "id": 14,
+      "nomeDesafio": "Desafio 14",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+14",
+      "url": "https://drive.google.com/file/d/1rS6-C_ldqBj9tzn14qDSVomK080_SHX7/preview"
+    },
+    {
+      "id": 15,
+      "nomeDesafio": "Desafio 15",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+15",
+      "url": "https://drive.google.com/file/d/1EMxTOq5e4nyGgIa-reKHUbKov--toyu9/preview"
+    },
+    {
+      "id": 16,
+      "nomeDesafio": "Desafio 16",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+16",
+      "url": "https://drive.google.com/file/d/14fgsJTaldWDDF-ps3aiHWqlobPOwIn2M/preview"
+    },
+    {
+      "id": 17,
+      "nomeDesafio": "Desafio 17",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+17",
+      "url": "https://drive.google.com/file/d/1xcXA_uknApLwqww74PKhZMh8HzpYwXwF/preview"
+    },
+    {
+      "id": 18,
+      "nomeDesafio": "Desafio 18",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+18",
+      "url": "https://drive.google.com/file/d/1QvagC_B3llJWqguirJAK-LDvJPh2QXrq/preview"
+    },
+    {
+      "id": 19,
+      "nomeDesafio": "Desafio 19",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+19",
+      "url": "https://drive.google.com/file/d/1b613hehF3JF6L7xY8lhByWrk5sSmwBuq/preview"
+    },
+    {
+      "id": 20,
+      "nomeDesafio": "Desafio 20",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+20",
+      "url": "https://drive.google.com/file/d/15LbYZaKS_tHpRiDKLUTJUu0U6SLE2l3r/preview"
+    },
+    {
+      "id": 21,
+      "nomeDesafio": "Desafio 21",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+21",
+      "url": "https://drive.google.com/file/d/1gHCqSP-Tmks9pGwIMFXpKzz8ZgkYUWyG/preview"
+    },
+    {
+      "id": 22,
+      "nomeDesafio": "Desafio 22",
+      "editor": "Mariana",
+      "data": "2025",
+      "thumbnail": "https://via.placeholder.com/315x560.png?text=Desafio+22",
+      "url": "https://drive.google.com/file/d/1Dao_N5eA_GLJAbsMtqcw7bR9dZn1T8zd/preview"
     }
   ]
 }
