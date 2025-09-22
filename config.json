@@ -31,13 +31,13 @@
       "tema": "Robôs Urbanos",
       "descricao": "Crie personagens robóticos em cenários urbanos futuristas",
       "premio": "Destaque no grupo e galeria principal",
-      "ativo": true
+      "ativo": false
     },
     "semanal": {
-      "tema": "Universo Fantástico",
-      "descricao": "Explore mundos mágicos e criaturas fantásticas",
+      "tema": "Fanart do Bot Nymos",
+      "descricao": "Desenhar o bot nymos no seu estilo de desenho, vamos ver a criatividade de cada!",
       "premio": "Arte em destaque por uma semana + menção especial",
-      "ativo": false
+      "ativo": true
     },
     "mensal": {
       "tema": "Personagens Originais",
